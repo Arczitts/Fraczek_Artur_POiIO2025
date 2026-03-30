@@ -1,6 +1,6 @@
 Kod klasy TAlgorithm
 
 Warunki zatrzymania:
--> max liczba populacji: 3
+-> max liczba populacji: 60
 
 Tworzenie nowej populacji
