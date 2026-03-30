@@ -1,1 +1,3 @@
 Kod klasy TPopulation
+
+Implementacja koła ruletki
