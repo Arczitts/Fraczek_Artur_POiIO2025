@@ -2,5 +2,6 @@ Kod klasy TAlgorithm
 
 Warunki zatrzymania:
 -> max liczba populacji: 3
+-> zbieżność
 
 Tworzenie nowej populacji
