@@ -5,3 +5,5 @@ Implementacja koła ruletki
 Implementacja krzyżowania
 
 Tworzenie nowego osobnika
+
+Liczna osobników w populacji: 67
