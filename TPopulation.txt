@@ -1,3 +1,5 @@
 Kod klasy TPopulation
 
 Implementacja koła ruletki
+
+Implementacja krzyżowania

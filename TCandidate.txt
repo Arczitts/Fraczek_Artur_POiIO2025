@@ -1,1 +1,3 @@
 Kod klasy TCandidate
+
+Wyświetlanie genotypu w formie binarnej
