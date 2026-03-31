@@ -7,3 +7,5 @@ Implementacja krzyżowania
 Tworzenie nowego osobnika
 
 Liczna osobników w populacji: 67
+
+Populacja dla osobnika2
